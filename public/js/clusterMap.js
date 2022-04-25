@@ -4,7 +4,8 @@ const map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/outdoors-v11',
 center: [0,0],
-zoom: 1.5
+zoom: 1.5,
+cooperativeGestures: true
 });
 
 map.addControl(
