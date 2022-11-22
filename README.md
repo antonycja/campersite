@@ -21,3 +21,6 @@ To open the website on your device simply got to https://campersite.herokuapp.co
 </td>
 </tr>
 </table>
+
+<h4>What I learnt</h4>
+During my process of developing this website I learnt the importance of google and how to solve errors that occur as the app is developed.
