@@ -1,5 +1,5 @@
 # campersite
-To open the website on your device simply got to https://campersite.herokuapp.com
+To open the website on your device simply go to https://campersite.onrender.com/
 
 <h3> What I used to build this webapp </h3>
 <table>
